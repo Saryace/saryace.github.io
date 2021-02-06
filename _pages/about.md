@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Intro 
+Introduction 
 ======
 
 Disentangling the soil and water relationship<br/> 
