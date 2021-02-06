@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Licenciatura en Química, Pontificia Universidad Católica de Chile, 2009
+* Químico Mención Analítica y Ambiental, Pontificia Universidad Católica de Chile, 2009
+* M.S. in Soil and Biogeochemistry, University of California Davis, 2014
+* Dr(c) en Ciencias de la Ingeniería, área Ingenieria Civil,Pontificia Universidad Católica de Chile, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020: Course maintainer MOOCs Coursera .
+  * Pontificia Universidad Católica de Chile
+  * Duties included: Tagging issues and course evaluation 
+  * Courses: Intro to programming and university training and learning process
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2011 - 2019: Soil scientist freelance
+  * Project evaluation focused on soil physical properties and environmental baselines for water treatment facilities. 2018-2019. DesalSolar SPA
+  * Monitoring and evaluation of greenhouse experiments focus on cereals. Planning and execution of soil analysis.2015. MicroAgro SPA
+  * Scientific and technical evaluation of work plan, project budget, and schedule of completion of CORFO proposals. 2011 - 2018.
+
+* 2008 - 2012: Laboratory manager and Research Chemist 
+ * In charge of the Water Quality Laboratory in the Department of Hydraulic and Environmental Engineering. Pontificia Universidad Católica de Chile.
+ * Research assistant in 2 FONDECYT, 1 CORFO and 1 FONDEF projects
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Advanced English
+* Experience in Soil chemistry and physics laboratories 
+* R user
+* Github
 
 Publications
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently part of R Ladies iniciative
