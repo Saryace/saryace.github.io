@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Intro - EN
+Intro 
 ======
 
 Disentangling the soil and water relationship<br/> 
@@ -18,12 +18,4 @@ My tools:<br/>
 * Soil and Biogeochemistry
 * Soil Physics + R
 
-Intro - ES
-======
-
-Desenmarañando la relación entre el suelo y el agua<br/>
-
-Mis herramientas:<br/>
-* Quimica ambiental
-* Biogeoquímica del suelo
-* Física de suelos + R
+Currently I am pursuing a doctor's degree in Enginnering Sciences, focusing on laboratory and field studies related to soil science and environmental studies, specifically soil physics. My professional and academic experience is in soil science, including physical and chemical research. Also, I am proficient R, focusing on statistics and predictive models. 
