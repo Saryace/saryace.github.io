@@ -34,8 +34,8 @@ Work experience
 
 Skills
 ======
-* Advanced English
-* Experience in Soil chemistry and physics laboratories 
+* Second language: English
+* Experience in soil chemistry and physics laboratories 
 * R user
 * Github
 
@@ -59,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently part of R Ladies iniciative
+* Currently and proudly part of the R Ladies iniciative
