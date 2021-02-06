@@ -1,6 +1,6 @@
 ---
 title: "Tutorial plot soil texture in R (ES/EN)"
-excerpt: "Plotting soil texture triangles using R<br/><img src='/images/500x300.png'>"
+excerpt: "Plotting soil texture triangles using R<br/><img src='/images/plottriangle.png'>"
 collection: portfolio
 ---
 
