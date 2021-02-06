@@ -11,11 +11,17 @@ redirect_from:
 Intro - EN
 ======
 
-Disentangling the soil and water relationship
-My tools: Environmental chemistry / Soil and Biogeochemistry / Soil Physics + R
+Disentangling the soil and water relationship<br/> 
+My tools:<br/> 
+* Environmental chemistry 
+* Soil and Biogeochemistry
+* Soil Physics + R
 
 Intro - ES
 ======
 
-Desenmarañando la relación entre el suelo y el agua
-Mis herramientas: Quimica ambiental / Biogeoquímica del suelo / Física de suelos + R
+Desenmarañando la relación entre el suelo y el agua<br/>
+Mis herramientas:<br/>
+*Quimica ambiental
+*Biogeoquímica del suelo
+*Física de suelos + R
