@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2020: Course maintainer MOOCs Coursera .
+* 2020: Course maintainer MOOCs Coursera
   * Pontificia Universidad Católica de Chile
   * Duties included: Tagging issues and course evaluation 
   * Courses: Intro to programming and university training and learning process
@@ -29,7 +29,8 @@ Work experience
   * Scientific and technical evaluation of work plan, project budget, and schedule of completion of CORFO proposals. 2011 - 2018.
 
 * 2008 - 2012: Laboratory manager and Research Chemist 
- * In charge of the Water Quality Laboratory in the Department of Hydraulic and Environmental Engineering. Pontificia Universidad Católica de Chile.
+ * Lab Manager Water Quality Laboratory.
+   * Department of Hydraulic and Environmental Engineering. Pontificia Universidad Católica de Chile.
  * Research assistant in 2 FONDECYT, 1 CORFO and 1 FONDEF projects
 
 Skills
@@ -37,7 +38,7 @@ Skills
 * Second language: English
 * Experience in soil chemistry and physics laboratories 
 * R user
-* Github
+* Basic Github
 
 Publications
 ======
@@ -59,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently and proudly part of the R Ladies iniciative
+* Currently and proudly part of the [R Ladies iniciative](https://rladies.org/)
