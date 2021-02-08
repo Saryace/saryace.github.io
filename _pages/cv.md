@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* Licenciatura en Química, Pontificia Universidad Católica de Chile, 2009
-* Químico Mención Analítica y Ambiental, Pontificia Universidad Católica de Chile, 2009
+* B.Sc. in Chemistry, specialization in Environmental and Analytical chemistry. Pontificia Universidad Católica de Chile, 2009
 * M.S. in Soil and Biogeochemistry, University of California Davis, 2014
-* Dr(c) en Ciencias de la Ingeniería, área Ingenieria Civil,Pontificia Universidad Católica de Chile, 2021 (expected)
+* Dr.(C) in Engineering Sciences, Pontificia Universidad Católica de Chile, 2021 (expected)
 
 Work experience
 ======
