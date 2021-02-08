@@ -4,11 +4,11 @@ collection: teaching
 type: "TA"
 permalink: /teaching/TA
 venue: "Teaching assistant"
-date: 2013-01-01
-location: "Chile, USA since"
+date: 2009-01-01
+location: "Chile, USA"
 ---
 
-TA experience in Chile and USA
+TA experience in Chile and USA since 2009 
 
 Pontificia Universidad Católica de Chile 
 ======
