@@ -10,16 +10,8 @@ location: "Santiago, Chile"
 
 R-Ladies workshops: linear regression and data manipulation since 2018
 
-Taller introductorio modelos predictivos usando tidymodels (ES) - 2021
-
+Taller introductorio modelos predictivos usando tidymodels - 2021
 ======
-Taller introductorio modelos predictivos usando tidymodels
-[github here](https://github.com/Saryace/tallertidymodels)
-[class here](https://vimeo.com/525178849)
-
-Taller introductorio modelos predictivos usando tidymodels (ES) - 2021
-======
-Taller introductorio modelos predictivos usando tidymodels
 [github here](https://github.com/Saryace/tallertidymodels)
 [class here](https://vimeo.com/525178849)
 
