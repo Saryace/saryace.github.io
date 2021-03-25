@@ -26,4 +26,5 @@ Talleres regresión lineal y machine learning (ES)
 ======
 
 *  Modelos predictivos usando R [event here](https://www.meetup.com/es/rladies-scl/events/251996240/)
+
 *  Regresión lineal con R [event here](https://www.meetup.com/es/rladies-scl/events/259987089/)
