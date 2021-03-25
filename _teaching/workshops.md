@@ -13,11 +13,13 @@ R-Ladies workshops: linear regression and data manipulation since 2018
 Taller introductorio modelos predictivos usando tidymodels - 2021
 ======
 [github here](https://github.com/Saryace/tallertidymodels)
+
 [class here](https://vimeo.com/525178849)
 
 Taller introductorio manejo de datos (ES) - 2020
 ======
 Taller introductorio manejo de datos utilizando tidyverse
+
 [class here](https://vimeo.com/418285071)
 
 Talleres regresión lineal y machine learning (ES)
