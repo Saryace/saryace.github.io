@@ -45,15 +45,12 @@ GSID 2024: \# 25 - 27 September
 
 I am interested in being a researcher who welcomes all her students and colleagues in an inclusive way. I am part of the Inclusion Committee in my Faculty and part of RLadiesGlobal, where I am learning how to teach and create more inclusive communities.
 
-## Hobbies 
+## Hobbies
 
 When I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.
 
-I am a fan of the game Stardew Valley, in November there is a major game update, so that will keep me entertained for many months.
-
-::: {layout-nrow="2"}
 ![Megaman character X](img/megaman.png){width="10%"}
 
-![Screenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples](img/soil_stardew.png){width="50%"}
-:::
+I am a fan of the game Stardew Valley, in November there is a major game update, so that will keep me entertained for many months.
 
+![Screenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples](img/soil_stardew.png){width="30%"}
