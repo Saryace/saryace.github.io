@@ -1,0 +1,59 @@
+---
+title: "Me now: 2024"
+---
+
+## Research
+
+My research is focused on laboratory and field studies related to soil science and environmental studies, specifically in soil physics. Now I am interested in to understand urban soil ecosystem services, as part of my participation at the Centre for Sustainable Urban Development, [CEDEUS](https://en.cedeus.cl/about-us/the-centre/). I am actively seeking collaboration opportunities in this topic. For example, I started to sample soil samples in parks in Santiago:
+
+Work in progress!
+
+```{r}
+library(leaflet)
+leaflet() %>% 
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-70.6412692, lat=-33.4356565, popup="Parque Forestal") %>% 
+    addMarkers(lng=-70.6401543, lat=-33.4404796, popup="Parque San Borja") %>% 
+    addMarkers(lng=-70.6320152, lat=-33.4348176, popup="Parque Balmaceda") %>% 
+    addMarkers(lng=-70.6185047, lat=-33.4957693, popup="Campus San Joaquín")
+```
+
+## Teaching
+
+-   I am teaching two courses this year: Statistical methods for natural resources (R classes) and Environmental Biophysics
+-   I am preparing new materials for the following courses: Geology and Soil Sciences and Soil Conservation
+
+## Publications and R packages
+
+I am writing academic articles related to urban soils and soil physics. I am super proud of my labmates Cristina Contreras and Carolina Giraldo, and together we have published two papers in Geoderma this year!
+
+I have developed two R packages: [ggsoiltexture](https://github.com/Saryace/ggsoiltexture): Provides a simple ggplot function for the plotting of soil textural data and [InfiltrodiscR](https://github.com/biofisicasuelos/infiltrodiscR): Provides functions for the modeling of data derived from the Minidisk Infiltrometer device.
+
+## Working on grant applications
+
+I am preparing my application to a project for Initiation in Research (FONDECYT Iniciación ANID-Chile) Geared towards young researchers who have obtained their PhD in the previous ten years. The head researcher, along with the sponsoring institution, obtains funding for technical personnel and thesis student.
+
+## Presentations
+
+EGU 2024: [A citywide analysis of urban soil in parks: metals and organic matter concentration and homogeneous infiltration capacity](https://doi.org/10.5194/egusphere-egu24-13024)
+
+ISEE 2024: [COVID-19 incidence and mortality in Chile: Socio-environmental indicators as measurement of health environmental justice](https://ehp.niehs.nih.gov/doi/abs/10.1289/isee.2024.0908)
+
+GSID 2024: \# 25 - 27 September
+
+## Inclusion and accesibility
+
+I am interested in being a researcher who welcomes all her students and colleagues in an inclusive way. I am part of the Inclusion Committee in my Faculty and part of RLadiesGlobal, where I am learning how to teach and create more inclusive communities.
+
+## Hobbies 
+
+When I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.
+
+I am a fan of the game Stardew Valley, in November there is a major game update, so that will keep me entertained for many months.
+
+::: {layout-nrow="2"}
+![Megaman character X](img/megaman.png){width="10%"}
+
+![Screenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples](img/soil_stardew.png){width="50%"}
+:::
+

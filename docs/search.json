@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sara Acevedo",
+    "section": "",
+    "text": "Hi! I am an Assistant Professor at Pontificia Universidad Católica de Chile and researcher at the Centre for Sustainable Urban Development, CEDEUS. My research is focused on soil science, soil physics and soil data analysis, specifically in the urban environment. You can check my last publications in ORCID and Google Scholar.\nAlso, I am developing R packages for the soil science community. {infiltrodiscR} for infiltration analysis is available on CRAN and {ggsoiltexture} for plotting soil texture is under development.\nIf you want to see what I am doing lately, you can check my Github account and the me now section!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Me now",
+    "section": "",
+    "text": "Blablabla"
+  },
+  {
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "Me now: 2024",
+    "section": "",
+    "text": "My research is focused on laboratory and field studies related to soil science and environmental studies, specifically in soil physics. Now I am interested in to understand urban soil ecosystem services, as part of my participation at the Centre for Sustainable Urban Development, CEDEUS. I am actively seeking collaboration opportunities in this topic. For example, I started to sample soil samples in parks in Santiago:\nWork in progress!\n\nlibrary(leaflet)\nleaflet() %&gt;% \n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=-70.6412692, lat=-33.4356565, popup=\"Parque Forestal\") %&gt;% \n    addMarkers(lng=-70.6401543, lat=-33.4404796, popup=\"Parque San Borja\") %&gt;% \n    addMarkers(lng=-70.6320152, lat=-33.4348176, popup=\"Parque Balmaceda\") %&gt;% \n    addMarkers(lng=-70.6185047, lat=-33.4957693, popup=\"Campus San Joaquín\")"
+  },
+  {
+    "objectID": "now.html#research-2024",
+    "href": "now.html#research-2024",
+    "title": "Me now",
+    "section": "",
+    "text": "My research is focused on laboratory and field studies related to soil science and environmental studies, specifically in soil physics. Now I am interested in to understand urban soil ecosystem services, as part of my participation at the Centre for Sustainable Urban Development, CEDEUS. I am actively seeking collaboration opportunities in this topic. For example, I started to sample soil samples in parks in Santiago:\nWork in progress!\n\nlibrary(leaflet)\nleaflet() %&gt;% \n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=-70.6412692, lat=-33.4356565, popup=\"Parque Forestal\") %&gt;% \n    addMarkers(lng=-70.6401543, lat=-33.4404796, popup=\"Parque San Borja\") %&gt;% \n    addMarkers(lng=-70.6320152, lat=-33.4348176, popup=\"Parque Balmaceda\") %&gt;% \n    addMarkers(lng=-70.6185047, lat=-33.4957693, popup=\"Campus San Joaquín\")"
+  },
+  {
+    "objectID": "now.html#teaching",
+    "href": "now.html#teaching",
+    "title": "Me now: 2024",
+    "section": "Teaching",
+    "text": "Teaching\n\nI am teaching two courses this year: Statistical methods for natural resources (R classes) and Environmental Biophysics\nI am preparing new materials for the following courses: Geology and Soil Sciences and Soil Conservation"
+  },
+  {
+    "objectID": "now.html#publications-and-r-packages",
+    "href": "now.html#publications-and-r-packages",
+    "title": "Me now: 2024",
+    "section": "Publications and R packages",
+    "text": "Publications and R packages\nI am writing academic articles related to urban soils and soil physics. I am super proud of my labmates Cristina Contreras and Carolina Giraldo, and together we have published two papers in Geoderma this year!\nI have developed two R packages: ggsoiltexture: Provides a simple ggplot function for the plotting of soil textural data and InfiltrodiscR: Provides functions for the modeling of data derived from the Minidisk Infiltrometer device."
+  },
+  {
+    "objectID": "now.html#working-on-grant-applications",
+    "href": "now.html#working-on-grant-applications",
+    "title": "Me now: 2024",
+    "section": "Working on grant applications",
+    "text": "Working on grant applications\nI am preparing my application to a project for Initiation in Research (FONDECYT Iniciación ANID-Chile) Geared towards young researchers who have obtained their PhD in the previous ten years. The head researcher, along with the sponsoring institution, obtains funding for technical personnel and thesis student."
+  },
+  {
+    "objectID": "now.html#presentations",
+    "href": "now.html#presentations",
+    "title": "Me now: 2024",
+    "section": "Presentations",
+    "text": "Presentations\nEGU 2024: A citywide analysis of urban soil in parks: metals and organic matter concentration and homogeneous infiltration capacity\nISEE 2024: COVID-19 incidence and mortality in Chile: Socio-environmental indicators as measurement of health environmental justice\nGSID 2024: # 25 - 27 September"
+  },
+  {
+    "objectID": "now.html#research",
+    "href": "now.html#research",
+    "title": "Me now: 2024",
+    "section": "",
+    "text": "My research is focused on laboratory and field studies related to soil science and environmental studies, specifically in soil physics. Now I am interested in to understand urban soil ecosystem services, as part of my participation at the Centre for Sustainable Urban Development, CEDEUS. I am actively seeking collaboration opportunities in this topic. For example, I started to sample soil samples in parks in Santiago:\nWork in progress!\n\nlibrary(leaflet)\nleaflet() %&gt;% \n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=-70.6412692, lat=-33.4356565, popup=\"Parque Forestal\") %&gt;% \n    addMarkers(lng=-70.6401543, lat=-33.4404796, popup=\"Parque San Borja\") %&gt;% \n    addMarkers(lng=-70.6320152, lat=-33.4348176, popup=\"Parque Balmaceda\") %&gt;% \n    addMarkers(lng=-70.6185047, lat=-33.4957693, popup=\"Campus San Joaquín\")"
+  },
+  {
+    "objectID": "now.html#inclusion-and-accesibility",
+    "href": "now.html#inclusion-and-accesibility",
+    "title": "Me now: 2024",
+    "section": "Inclusion and accesibility",
+    "text": "Inclusion and accesibility\nI am interested in being a researcher who welcomes all her students and colleagues in an inclusive way. I am part of the Inclusion Committee in my Faculty and part of RLadiesGlobal, where I am learning how to teach and create more inclusive communities."
+  },
+  {
+    "objectID": "now.html#hobbies",
+    "href": "now.html#hobbies",
+    "title": "Me now: 2024",
+    "section": "Hobbies",
+    "text": "Hobbies\nWhen I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.\nI am a fan of the game Stardew Valley, in November there is a major game update, so that will keep me entertained for many months.\n\n\n\n\n\n\nMegaman character X\n\n\n\n\n\n\n\n\n\nScreenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples"
+  }
+]
