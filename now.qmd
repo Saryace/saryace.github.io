@@ -29,7 +29,7 @@ Together with my colleague [Felipe Lobos](https://scholar.google.com/citations?u
 
 ![olmedo-alegria-villaverde](img/olmedo-alegria-villaverde.png)
 
-![perez-schmidt](img/perez-schmidt.png)
+![lopez-schmidt](img/lopez-schmidt.png)
 
 ![vargas-molina](img/vargas-molina.png)
 
@@ -38,7 +38,9 @@ Cool figures!
 
 ## 📝 Publications and Conferences
 
-I am writing academic articles related to urban soils and soil physics. I am super proud of my colleagues [Cristina Contreras](https://scholar.google.com/citations?hl=en&user=jmrO2f8AAAAJ) and [Carolina Giraldo](https://scholar.google.com/citations?user=kogVEjsAAAAJ&hl=en), and together we have published cool new stuff.
+I am writing academic articles related to urban soils and soil physics. I am super proud of my colleagues [Carlos Bonilla](https://scholar.google.com/citations?user=Y2lgbzcAAAAJ&hl=en), [Cristina Contreras](https://scholar.google.com/citations?hl=en&user=jmrO2f8AAAAJ), and [Carolina Giraldo](https://scholar.google.com/citations?user=kogVEjsAAAAJ&hl=en), and together we have published cool new stuff about soil physics.
+
+With [Moreen Willaredt](https://orcid.org/0000-0002-0081-3170) and [Beverly Alvarez-Torres](https://scholar.google.com/citations?user=3YHfa_gAAAAJ&hl=en) I have been exploring more about urban soils and their role in the urban soil hydrology.
 
 ```{r}
 #| echo: false
@@ -105,8 +107,12 @@ Some outcomes from each R package
 
 When I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.
 
-![Megaman character X](img/megaman.png){width="10%"}
+I am a fan of the game Stardew Valley. I really want to try major game update, but lately I had been busy :(
 
-I am a fan of the game Stardew Valley, in November there is a major game update, so that will keep me entertained for many months.
+::: {#fig-hobbies layout-ncol="2" layout-valign="bottom"}
+![megaman](img/megaman.png){#fig-megaman}
 
-![Screenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples](img/soil_stardew.png){width="30%"}
+![Screenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples](img/soil_stardew.png)
+
+Games \<3
+:::
