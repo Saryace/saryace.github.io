@@ -1,8 +1,8 @@
 ---
-title: "Me now: 2024"
+title: "Me now"
 ---
 
-## Research
+## 👩🏽‍💻 Research
 
 My research is focused on laboratory and field studies related to soil science and environmental studies, specifically in soil physics. Now I am interested in to understand urban soil ecosystem services, as part of my participation at the Centre for Sustainable Urban Development, [CEDEUS](https://en.cedeus.cl/about-us/the-centre/). I am actively seeking collaboration opportunities in this topic. For example, I started to sample soil samples in parks in Santiago:
 
@@ -18,34 +18,90 @@ leaflet() %>%
     addMarkers(lng=-70.6185047, lat=-33.4957693, popup="Campus San Joaquín")
 ```
 
-## Teaching
+## 👩🏽‍🏫 Teaching
 
--   I am teaching two courses this year: Statistical methods for natural resources (R classes) and Environmental Biophysics
--   I am preparing new materials for the following courses: Geology and Soil Sciences and Soil Conservation
+I'm currently teaching: - Geology/soil science (100%) - Research methodologies (50%) - Data analysis and visualization (100%)
 
-## Publications and R packages
+Together with my colleague [Felipe Lobos](https://scholar.google.com/citations?user=kh5Py2YAAAAJ&hl=en) we teach R and python. Take a look at some of the results of the research methodologies course.
 
-I am writing academic articles related to urban soils and soil physics. I am super proud of my labmates Cristina Contreras and Carolina Giraldo, and together we have published two papers in Geoderma this year!
+::: {#fig-students layout-nrow="2" layout-valign="bottom"}
+![torres-valencia](img/torres-valencia.png)
 
-I have developed two R packages: [ggsoiltexture](https://github.com/Saryace/ggsoiltexture): Provides a simple ggplot function for the plotting of soil textural data and [InfiltrodiscR](https://github.com/biofisicasuelos/infiltrodiscR): Provides functions for the modeling of data derived from the Minidisk Infiltrometer device.
+![olmedo-alegria-villaverde](img/olmedo-alegria-villaverde.png)
 
-## Working on grant applications
+![perez-schmidt](img/perez-schmidt.png)
 
-I am preparing my application to a project for Initiation in Research (FONDECYT Iniciación ANID-Chile) Geared towards young researchers who have obtained their PhD in the previous ten years. The head researcher, along with the sponsoring institution, obtains funding for technical personnel and thesis student.
+![vargas-molina](img/vargas-molina.png)
 
-## Presentations
+Cool figures!
+:::
 
-EGU 2024: [A citywide analysis of urban soil in parks: metals and organic matter concentration and homogeneous infiltration capacity](https://doi.org/10.5194/egusphere-egu24-13024)
+## 📝 Publications and Conferences
 
-ISEE 2024: [COVID-19 incidence and mortality in Chile: Socio-environmental indicators as measurement of health environmental justice](https://ehp.niehs.nih.gov/doi/abs/10.1289/isee.2024.0908)
+I am writing academic articles related to urban soils and soil physics. I am super proud of my colleagues [Cristina Contreras](https://scholar.google.com/citations?hl=en&user=jmrO2f8AAAAJ) and [Carolina Giraldo](https://scholar.google.com/citations?user=kogVEjsAAAAJ&hl=en), and together we have published cool new stuff.
 
-GSID 2024: \# 25 - 27 September
+```{r}
+#| echo: false
+#| warning: false
+library(scholar)
+library(dplyr)
+library(DT)
 
-## Inclusion and accesibility
+# Google Scholar ID
+id <- "WJqqnIQAAAAJ"
 
-I am interested in being a researcher who welcomes all her students and colleagues in an inclusive way. I am part of the Inclusion Committee in my Faculty and part of RLadiesGlobal, where I am learning how to teach and create more inclusive communities.
+# Get and filter publications from last year
+last_year <- as.numeric(format(Sys.Date(), "%Y")) - 1
+pubs <- get_publications(id) |>
+  filter(year >= last_year) |>
+  arrange(desc(year))
 
-## Hobbies
+# Add Google Scholar search link for each title
+pubs$Link <- paste0(
+  "<a href='https://scholar.google.com/scholar?q=",
+  URLencode(pubs$title, reserved = TRUE),
+  "' target='_blank'>Google Scholar</a>"
+)
+
+# Prepare clean table
+pubs_clean <- pubs |>
+  transmute(
+    Title = title,
+    Authors = author,
+    Journal = journal,
+    Year = year,
+    Link = Link
+  )
+
+# Render table (with HTML links)
+datatable(
+  pubs_clean,
+  escape = FALSE,
+  options = list(
+    pageLength = 3,
+    searching = TRUE,
+    paging = TRUE
+  ),
+  rownames = FALSE
+)
+```
+
+## 📦 R packages
+
+I have developed two R packages:
+
+-   [ggsoiltexture](https://github.com/Saryace/ggsoiltexture): Provides a simple ggplot function for the plotting of soil textural data
+-   [InfiltrodiscR](https://github.com/biofisicasuelos/infiltrodiscR): Provides functions for the modeling of data derived from the Minidisk Infiltrometer device.
+
+::: {#fig-r-packages layout-ncol="2" layout-valign="bottom"}
+![ggsoiltexture](https://github.com/Saryace/ggsoiltexture/raw/main/README_files/figure-gfm/simple_plot-3-1.png){#fig-ggsoiltexture}
+
+![InfiltrodiscR](img/infiltro.jpg){#fig-infiltro}
+
+Some outcomes from each R package
+:::
+
+## 🎮 Hobbies
 
 When I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.
 

@@ -16,7 +16,7 @@
   {
     "objectID": "now.html",
     "href": "now.html",
-    "title": "Me now: 2024",
+    "title": "Me now",
     "section": "",
     "text": "My research is focused on laboratory and field studies related to soil science and environmental studies, specifically in soil physics. Now I am interested in to understand urban soil ecosystem services, as part of my participation at the Centre for Sustainable Urban Development, CEDEUS. I am actively seeking collaboration opportunities in this topic. For example, I started to sample soil samples in parks in Santiago:\nWork in progress!\n\nlibrary(leaflet)\nleaflet() %&gt;% \n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=-70.6412692, lat=-33.4356565, popup=\"Parque Forestal\") %&gt;% \n    addMarkers(lng=-70.6401543, lat=-33.4404796, popup=\"Parque San Borja\") %&gt;% \n    addMarkers(lng=-70.6320152, lat=-33.4348176, popup=\"Parque Balmaceda\") %&gt;% \n    addMarkers(lng=-70.6185047, lat=-33.4957693, popup=\"Campus San Joaquín\")"
   },
@@ -30,16 +30,16 @@
   {
     "objectID": "now.html#teaching",
     "href": "now.html#teaching",
-    "title": "Me now: 2024",
-    "section": "Teaching",
-    "text": "Teaching\n\nI am teaching two courses this year: Statistical methods for natural resources (R classes) and Environmental Biophysics\nI am preparing new materials for the following courses: Geology and Soil Sciences and Soil Conservation"
+    "title": "Me now",
+    "section": "👩🏽‍🏫 Teaching",
+    "text": "👩🏽‍🏫 Teaching\nI’m currently teaching: - Geology/soil science (100%) - Research methodologies (50%) - Data analysis and visualization (100%)\nTogether with my colleague Felipe Lobos we teach R and python. Take a look at some of the results of the research methodologies course.\n\n\n\n\n\n\n\ntorres-valencia\n\n\n\n\n\n\n\nolmedo-alegria-villaverde\n\n\n\n\n\n\n\n\n\nperez-schmidt\n\n\n\n\n\n\n\nvargas-molina\n\n\n\n\nFigure 1: Cool figures!"
   },
   {
     "objectID": "now.html#publications-and-r-packages",
     "href": "now.html#publications-and-r-packages",
-    "title": "Me now: 2024",
-    "section": "Publications and R packages",
-    "text": "Publications and R packages\nI am writing academic articles related to urban soils and soil physics. I am super proud of my labmates Cristina Contreras and Carolina Giraldo, and together we have published two papers in Geoderma this year!\nI have developed two R packages: ggsoiltexture: Provides a simple ggplot function for the plotting of soil textural data and InfiltrodiscR: Provides functions for the modeling of data derived from the Minidisk Infiltrometer device."
+    "title": "Me now",
+    "section": "📝 Publications and R packages",
+    "text": "📝 Publications and R packages\nI am writing academic articles related to urban soils and soil physics. I am super proud of my colleagues Cristina Contreras and Carolina Giraldo, and together we have published cool new stuff.\n\nlibrary(scholar)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(DT)\n\n# Google Scholar ID (replace with yours)\nid &lt;- \"WJqqnIQAAAAJ\"\n\n# Get and filter publications\npubs &lt;- get_publications(id)\nlast_year &lt;- as.numeric(format(Sys.Date(), \"%Y\")) - 1\npubs &lt;- pubs %&gt;% filter(year &gt;= last_year)\n\n# Select and rename columns\npubs_clean &lt;- pubs %&gt;%\n  select(Title = title,\n         Authors = author,\n         Journal = journal,\n         Year = year)\n\n# Create searchable, downloadable table\ndatatable(\n  pubs_clean,\n  caption = paste(\"Publications from\", last_year),\n  extensions = \"Buttons\",\n  options = list(\n    dom = 'Bfrtip',\n    pageLength = 5\n  ),\n  rownames = FALSE\n)\n\n\n\n\n\n\nI have developed two R packages: ggsoiltexture: Provides a simple ggplot function for the plotting of soil textural data and InfiltrodiscR: Provides functions for the modeling of data derived from the Minidisk Infiltrometer device."
   },
   {
     "objectID": "now.html#working-on-grant-applications",
@@ -51,14 +51,14 @@
   {
     "objectID": "now.html#presentations",
     "href": "now.html#presentations",
-    "title": "Me now: 2024",
-    "section": "Presentations",
-    "text": "Presentations\nEGU 2024: A citywide analysis of urban soil in parks: metals and organic matter concentration and homogeneous infiltration capacity\nISEE 2024: COVID-19 incidence and mortality in Chile: Socio-environmental indicators as measurement of health environmental justice\nGSID 2024: # 25 - 27 September"
+    "title": "Me now",
+    "section": "🗺️ Presentations",
+    "text": "🗺️ Presentations"
   },
   {
     "objectID": "now.html#research",
     "href": "now.html#research",
-    "title": "Me now: 2024",
+    "title": "Me now",
     "section": "",
     "text": "My research is focused on laboratory and field studies related to soil science and environmental studies, specifically in soil physics. Now I am interested in to understand urban soil ecosystem services, as part of my participation at the Centre for Sustainable Urban Development, CEDEUS. I am actively seeking collaboration opportunities in this topic. For example, I started to sample soil samples in parks in Santiago:\nWork in progress!\n\nlibrary(leaflet)\nleaflet() %&gt;% \n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=-70.6412692, lat=-33.4356565, popup=\"Parque Forestal\") %&gt;% \n    addMarkers(lng=-70.6401543, lat=-33.4404796, popup=\"Parque San Borja\") %&gt;% \n    addMarkers(lng=-70.6320152, lat=-33.4348176, popup=\"Parque Balmaceda\") %&gt;% \n    addMarkers(lng=-70.6185047, lat=-33.4957693, popup=\"Campus San Joaquín\")"
   },
@@ -72,8 +72,22 @@
   {
     "objectID": "now.html#hobbies",
     "href": "now.html#hobbies",
-    "title": "Me now: 2024",
-    "section": "Hobbies",
-    "text": "Hobbies\nWhen I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.\nI am a fan of the game Stardew Valley, in November there is a major game update, so that will keep me entertained for many months.\n\n\n\n\n\n\nMegaman character X\n\n\n\n\n\n\n\n\n\nScreenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples"
+    "title": "Me now",
+    "section": "🎮 Hobbies",
+    "text": "🎮 Hobbies\nWhen I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.\n\n\n\nMegaman character X\n\n\nI am a fan of the game Stardew Valley, in November there is a major game update, so that will keep me entertained for many months.\n\n\n\nScreenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples"
+  },
+  {
+    "objectID": "now.html#publications-and-conferences",
+    "href": "now.html#publications-and-conferences",
+    "title": "Me now",
+    "section": "📝 Publications and Conferences",
+    "text": "📝 Publications and Conferences\nI am writing academic articles related to urban soils and soil physics. I am super proud of my colleagues Cristina Contreras and Carolina Giraldo, and together we have published cool new stuff."
+  },
+  {
+    "objectID": "now.html#r-packages",
+    "href": "now.html#r-packages",
+    "title": "Me now",
+    "section": "📦 R packages",
+    "text": "📦 R packages\nI have developed two R packages:\n\nggsoiltexture: Provides a simple ggplot function for the plotting of soil textural data\nInfiltrodiscR: Provides functions for the modeling of data derived from the Minidisk Infiltrometer device.\n\n\n\n\n\n\n\n\n(a) ggsoiltexture\n\n\n\n\n\n\n\n(b) InfiltrodiscR\n\n\n\n\nFigure 2: Some outcomes from each R package"
   }
 ]
