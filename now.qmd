@@ -127,7 +127,7 @@ When I was a kid, I never got to play much SNES or PS1 because my brothers used 
 
 I am a fan of the game Stardew Valley. I really want to try major game update, but lately I had been busy :(
 
-::: {#fig-hobbies layout-ncol="2" layout-valign="bottom"}
+::: {#fig-hobbies layout-ncol="2" layout-valign="center"}
 ![megaman](img/megaman.png){#fig-megaman}
 
 ![Screenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples](img/soil_stardew.png)
