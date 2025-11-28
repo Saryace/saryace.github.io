@@ -20,11 +20,11 @@ leaflet() %>%
 
 ## 👩🏽‍🏫 Teaching
 
-I'm currently teaching: - Geology/soil science (100%) - Research methodologies (50%) - Data analysis and visualization (100%)
+I'm currently teaching: - Geology/soil science (100%) - Research methodologies (50%) - Data analysis and visualization (100%).
 
-Together with my colleague [Felipe Lobos](https://scholar.google.com/citations?user=kh5Py2YAAAAJ&hl=en) we teach R and python. Take a look at some of the results of the research methodologies course.
+Together with my colleague [Felipe Lobos](https://scholar.google.com/citations?user=kh5Py2YAAAAJ&hl=en) we teach R and Python. Take a look at some of the results of the research methodologies course.
 
-::: {#fig-students layout-nrow="2" layout-valign="bottom"}
+::: {#fig-students layout-nrow="2" layout-valign="center"}
 ![torres-valencia](img/torres-valencia.png)
 
 ![olmedo-alegria-villaverde](img/olmedo-alegria-villaverde.png)
@@ -36,11 +36,13 @@ Together with my colleague [Felipe Lobos](https://scholar.google.com/citations?u
 Cool figures!
 :::
 
-## 📝 Publications and Conferences
+## 📝 Publications 
 
 I am writing academic articles related to urban soils and soil physics. I am super proud of my colleagues [Carlos Bonilla](https://scholar.google.com/citations?user=Y2lgbzcAAAAJ&hl=en), [Cristina Contreras](https://scholar.google.com/citations?hl=en&user=jmrO2f8AAAAJ), and [Carolina Giraldo](https://scholar.google.com/citations?user=kogVEjsAAAAJ&hl=en), and together we have published cool new stuff about soil physics.
 
 With [Moreen Willaredt](https://orcid.org/0000-0002-0081-3170) and [Beverly Alvarez-Torres](https://scholar.google.com/citations?user=3YHfa_gAAAAJ&hl=en) I have been exploring more about urban soils and their role in the urban soil hydrology.
+
+UPDATE: ggsoiltexture was published!
 
 ```{r}
 #| echo: false
@@ -87,6 +89,22 @@ datatable(
   rownames = FALSE
 )
 ```
+
+## 🎤 Conferences
+
+This year, 2025, I attended many conferences. I started with SSSA Soil Physics Fukushima, Japan, where I learned about the role of soil in the 2011 disaster. Then I participated in SUITMA25 in Pisa, Italy, where I presented preliminary data on air temperature and heat exposure in urban soils. I won an award for the best presentation on the topic! In Chile, I attended the Chilean Society of Soil Sciences Conference, where I shared the development of R packages, and finally I went to the VIII Chilean Public Health Congress.
+
+::: {#fig-students layout-nrow="2" layout-valign="center"}
+![SSSA-Fukushima](img/fukushima.jpeg)
+
+![SUITMA-Pisa](img/prize.jpg)
+
+![SChSS- La Serena](img/laserena.jpeg)
+
+![Public Health - Valparaíso](img/valpo.jpg)
+
+Cool figures!
+:::
 
 ## 📦 R packages
 

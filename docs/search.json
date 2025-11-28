@@ -32,7 +32,7 @@
     "href": "now.html#teaching",
     "title": "Me now",
     "section": "👩🏽‍🏫 Teaching",
-    "text": "👩🏽‍🏫 Teaching\nI’m currently teaching: - Geology/soil science (100%) - Research methodologies (50%) - Data analysis and visualization (100%)\nTogether with my colleague Felipe Lobos we teach R and python. Take a look at some of the results of the research methodologies course.\n\n\n\n\n\n\n\ntorres-valencia\n\n\n\n\n\n\n\nolmedo-alegria-villaverde\n\n\n\n\n\n\n\n\n\nlopez-schmidt\n\n\n\n\n\n\n\nvargas-molina\n\n\n\n\nFigure 1: Cool figures!"
+    "text": "👩🏽‍🏫 Teaching\nI’m currently teaching: - Geology/soil science (100%) - Research methodologies (50%) - Data analysis and visualization (100%).\nTogether with my colleague Felipe Lobos we teach R and Python. Take a look at some of the results of the research methodologies course.\n\n\n\n\n\n\n\n\ntorres-valencia\n\n\n\n\n\n\n\nolmedo-alegria-villaverde\n\n\n\n\n\n\n\n\n\nlopez-schmidt\n\n\n\n\n\n\n\nvargas-molina\n\n\n\n\n\n\nFigure 1: Cool figures!"
   },
   {
     "objectID": "now.html#publications-and-r-packages",
@@ -74,7 +74,7 @@
     "href": "now.html#hobbies",
     "title": "Me now",
     "section": "🎮 Hobbies",
-    "text": "🎮 Hobbies\nWhen I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.\nI am a fan of the game Stardew Valley. I really want to try major game update, but lately I had been busy :(\n\n\n\n\n\n\n\n(a) megaman\n\n\n\n\n\n\n\nScreenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples\n\n\n\n\nFigure 3: Games &lt;3"
+    "text": "🎮 Hobbies\nWhen I was a kid, I never got to play much SNES or PS1 because my brothers used the consoles. Now as an adult, I set out to play some games on my own. This year I finished Megaman X and Megaman X2, and I want to advance in the saga.\nI am a fan of the game Stardew Valley. I really want to try major game update, but lately I had been busy :(\n\n\n\n\n\n\n\n\n\n\n\n(a) megaman\n\n\n\n\n\n\n\n\nScreenshot from Reddit fo the Stardew Valley game. A character is asking about soil samples\n\n\n\n\n\n\nFigure 4: Games &lt;3"
   },
   {
     "objectID": "now.html#publications-and-conferences",
@@ -88,6 +88,20 @@
     "href": "now.html#r-packages",
     "title": "Me now",
     "section": "📦 R packages",
-    "text": "📦 R packages\nI have developed two R packages:\n\nggsoiltexture: Provides a simple ggplot function for the plotting of soil textural data\nInfiltrodiscR: Provides functions for the modeling of data derived from the Minidisk Infiltrometer device.\n\n\n\n\n\n\n\n\n(a) ggsoiltexture\n\n\n\n\n\n\n\n(b) InfiltrodiscR\n\n\n\n\nFigure 2: Some outcomes from each R package"
+    "text": "📦 R packages\nI have developed two R packages:\n\nggsoiltexture: Provides a simple ggplot function for the plotting of soil textural data\nInfiltrodiscR: Provides functions for the modeling of data derived from the Minidisk Infiltrometer device.\n\n\n\n\n\n\n\n\n\n\n\n\n(a) ggsoiltexture\n\n\n\n\n\n\n\n\n\n\n\n(b) InfiltrodiscR\n\n\n\n\n\n\n\nFigure 3: Some outcomes from each R package"
+  },
+  {
+    "objectID": "now.html#publications",
+    "href": "now.html#publications",
+    "title": "Me now",
+    "section": "📝 Publications",
+    "text": "📝 Publications\nI am writing academic articles related to urban soils and soil physics. I am super proud of my colleagues Carlos Bonilla, Cristina Contreras, and Carolina Giraldo, and together we have published cool new stuff about soil physics.\nWith Moreen Willaredt and Beverly Alvarez-Torres I have been exploring more about urban soils and their role in the urban soil hydrology.\nUPDATE: ggsoiltexture was published!"
+  },
+  {
+    "objectID": "now.html#conferences",
+    "href": "now.html#conferences",
+    "title": "Me now",
+    "section": "🎤 Conferences",
+    "text": "🎤 Conferences\nThis year, 2025, I attended many conferences. I started with SSSA Soil Physics Fukushima, Japan, where I learned about the role of soil in the 2011 disaster. Then I participated in SUITMA25 in Pisa, Italy, where I presented preliminary data on air temperature and heat exposure in urban soils. I won an award for the best presentation on the topic! In Chile, I attended the Chilean Society of Soil Sciences Conference, where I shared the development of R packages, and finally I went to the VIII Chilean Public Health Congress.\n\n\n\n\n\n\n\n\nSSSA-Fukushima\n\n\n\n\n\n\n\nSUITMA-Pisa\n\n\n\n\n\n\n\n\n\nSChSS- La Serena\n\n\n\n\n\n\n\nPublic Health - Valparaíso\n\n\n\n\n\n\nFigure 2: Cool figures!"
   }
 ]
